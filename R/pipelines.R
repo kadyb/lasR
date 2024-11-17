@@ -1,4 +1,4 @@
-#' Height Above Ground (HAG)
+#' Height Above Ground (HAG) 
 #'
 #' Normalize the point cloud using \link{triangulate} and \link{transform_with}. This process involves
 #' triangulating the ground points and then using `transform_with` to linearly interpolate the elevation
