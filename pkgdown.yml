@@ -1,0 +1,11 @@
+pandoc: 3.1.11
+pkgdown: 2.1.1
+pkgdown_sha: ~
+articles:
+  baba: baba.html
+  benchmarks: benchmarks.html
+  multithreading: multithreading.html
+  r-stages: r-stages.html
+  tutorial: tutorial.html
+  why: why.html
+last_built: 2024-11-17T14:24Z
